@@ -67,18 +67,13 @@ Cloned:-  https://cricbuzz-masai.netlify.app/
 ![Account](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Signup%20page.png)
 
 
-## Contributors
-- [Swapnil Vhantale](https://github.com/spvhantale)
-- [@Indrajit Paul](https://github.com/ipaul1996)
-- [@SHUBHAM VERMA](https://github.com/Shubhamverma94)
-- [@Vikram Navik](https://github.com/VikramN11)
-- [@S.K Sharma](https://github.com/Shray07)
+
 
 
 
 ## End Notes
 
-We cloned this website in in just 5 days. While origional website has many functionalities, we could manage to implement some. It's not the complete website as we have made this only from front-end. In future we are looking forward to make api requests and get real datas in real time.
+We cloned this website in in just 5 days. While origional website has many functionalities, we could manage to implement some. It's not the complete website as we have made.
 
 
 
