@@ -34,7 +34,7 @@ Cloned:-  https://cricbuzz-masai.netlify.app/
 ## Screenshots
 
 - Landing Page
-![Landing Page]([https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/Landing%20Page.png](https://github.com/MrScooby04/TyProject1/blob/main/projectview/Landing%20Page.png))
+![Landing Page][https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/Landing%20Page.png](https://github.com/MrScooby04/TyProject1/blob/main/projectview/Landing%20Page.png)
 
 - Live Score Page
 ![live-score](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Live%20Score.png)
