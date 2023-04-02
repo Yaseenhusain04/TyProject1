@@ -49,7 +49,7 @@ Cloned:-  https://cricbuzz-masai.netlify.app/
 ![Plus Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Schedule%20Page.png)
 
 - Video Page
-![Login Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/video%20page.png)
+![Login Page](https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/video%20page.png)
 
 
 - Ranking Page
