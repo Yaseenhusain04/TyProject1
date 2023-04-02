@@ -37,7 +37,7 @@ Cloned:-  https://cricbuzz-masai.netlify.app/
 ![Landing Page](https://github.com/MrScooby04/TyProject1/blob/main/projectview/Landing%20Page.png)
 
 - Live Score Page
-![live-score](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Live%20Score.png)
+![live-score](https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/Live%20Score.png)
 
 - Cricket Schedule Page
 ![Schedule Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Schedule%20Page.png)
