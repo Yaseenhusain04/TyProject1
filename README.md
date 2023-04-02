@@ -40,10 +40,10 @@ Cloned:-  https://cricbuzz-masai.netlify.app/
 ![live-score](https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/Live%20Score.png)
 
 - Cricket Schedule Page
-![Schedule Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Schedule%20Page.png)
+![Schedule Page](https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/Schedule%20Page.png)
 
 - News Page
-![Archieves Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/News%20page.png)
+![Archieves Page](https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/News%20page.png)
 
 - Schedule Page
 ![Plus Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Schedule%20Page.png)
