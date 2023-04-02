@@ -45,35 +45,26 @@ Cloned:-  https://cricbuzz-masai.netlify.app/
 - News Page
 ![Archieves Page](https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/News%20page.png)
 
-- Schedule Page
-![Plus Page](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Schedule%20Page.png)
-
 - Video Page
 ![Login Page](https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/video%20page.png)
 
 
 - Ranking Page
-![Login](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Ranking.png)
-![Screenshot 2022-12-19 154219](https://user-images.githubusercontent.com/103638279/208412092-7891ea39-e9b5-4bdb-b470-a037000281ac.png)
+![Login](https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/Ranking.png)
+
 
 
 
 
 -Login Page
-![Payment](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Signup%20page.png)
-
-
--Login Page 1
-![Account](https://github.com/spvhantale/Cricbuzz_Demo/blob/main/cricbuzz/Signup%20page.png)
-
-
+![Payment](https://github.com/MrScooby04/projectsrceenshot/blob/a86c8d38533fa5290660688941416c74616ee551/Signup%20page.png)
 
 
 
 
 ## End Notes
 
-We cloned this website in in just 5 days. While origional website has many functionalities, we could manage to implement some. It's not the complete website as we have made.
+As i cloned this website. While origional website has many functionalities, we could manage to implement some. It's not the complete website as we have made.
 
 
 
